@@ -1,3 +1,38 @@
 body {
-  background: blue;
+  background: #E8E8E8;
+}
+
+title {
+  width: 100%;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+
+.testButton {
+  background: 	#C0C0C0;
+  width: 10%
+}
+
+#photoTest {
+  width: 70%;
+  background: 	#C0C0C0;
+  margin: auto;
+  border: 3px solid grey;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  
+}
+
+#superTest {
+  width: 100%;
+  background: #D3D3D3;
+  display: flex;
+}
+
+
+#photo {
+  margin: auto;
+  max-width:100%;
 }
